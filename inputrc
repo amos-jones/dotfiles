@@ -1,0 +1,8 @@
+
+set editing-mode vi
+set keymap vi-command
+set show-mode-in-prompt on
+set vi-cmd-mode-string "\1\e[38;5;124m\2n\1\e[0m\2:"
+set vi-ins-mode-string "\1\e[38;5;46m\2i\1\e[0m\2:"
+
+
